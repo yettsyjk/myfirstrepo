@@ -95,3 +95,15 @@ tr td:first-of-type::before {
     left: 4px;
     opacity: 0.5;
 }
+grid--bg, leader-0, trailer-0, padding-leader-2, padding-trailer-2, text-center {
+border: 0;
+width: 1000px; 
+max-width: 95vw; 
+height: 64.60000000000001vw; 
+max-height: 675px; 
+min-height: px;
+}
+grid--bg leader-0 trailer-0 padding-leader-2 padding-trailer-2 text-center{
+background:  url(/content/esri-sites/en-us/disaster-response/disasters/wildfires/_jcr_content/par/grid_container_copy.img.jpg/1598051033564.jpg) no-repeat; 
+    background-size: cover;
+}
